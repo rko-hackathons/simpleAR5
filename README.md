@@ -16,12 +16,12 @@ The current JSARToolKit (ported from the python library) already allows AR in we
 ## Live Demos
 Apple *iPhone* and any *Android* smartphones (or tablets) can run the demo pages (below) with either the Chrome or Firefox browser.
 
-###JSARToolKit marker sample web demos (these work best with printed markers):
+### JSARToolKit marker sample web demos (these work best with printed markers):
 
 https://mkobar.github.io/simpleAR5/index.html
 
 
-##Resources
+## Resources
 
 Stamford Hackathon site: http://www.stamfordhackathon.org/
 
@@ -32,3 +32,7 @@ JSARToolKit - https://github.com/artoolkit/jsartoolkit5
 Three.js - https://threejs.org and http://ushiroad.com/3j/
 
 X3DOM - http://www.x3dom.org
+
+## License
+
+Copyright @ 2016 [RKOSecurity](http://www.rkosecurity.com)
